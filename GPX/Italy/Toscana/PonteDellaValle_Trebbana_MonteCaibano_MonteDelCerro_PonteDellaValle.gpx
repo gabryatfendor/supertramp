@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <gpx xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:ql="http://www.qlandkarte.org/xmlschemas/v1.1" xmlns:tp1="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns="http://www.topografix.com/GPX/1/1" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.qlandkarte.org/xmlschemas/v1.1 http://www.qlandkarte.org/xmlschemas/v1.1/ql-extensions.xsd http://www.cluetrust.com/XML/GPXDATA/1/0 http://www.cluetrust.com/Schemas/gpxdata10.xsd" version="1.1" xmlns:rmc="urn:net:trekbuddy:1.0:nmea:rmc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="QMapShack 1.12.0 http://www.qlandkarte.org/">
  <metadata>
-  <name>Esplorazione Trebbana</name>
+  <name>PonteDellaValle_Trebbana_MonteCaibano_MonteDelCerro_PonteDellaValle</name>
+  <author>
+    <name>Gabriele Sani</name>
+    <email id="sani.gabriele" domain="protonmail.com"/>
+    <link href="https://geocachehiker.com/"/>
+  </author>
   <time>2019-08-08T10:49:06.610Z</time>
  </metadata>
+ <wpt lat="44.04818056" lon="11.67368056">
+  <ele>533</ele>
+  <time>2019-08-08T13:02:24.274Z</time>
+  <name>Parking</name>
+  <cmt>Easily reachable from the nearby Lutirano</cmt>
+  <desc>Starting point where to leave the car</desc>
+  <src>Garmin eTrex 20x</src>
+  <sym>Parking Area</sym>
+ </wpt>
  <trk>
-  <name>20190427 - EsplorazioneTrebbana</name>
+  <name>PonteDellaValle_Trebbana_MonteCaibano_MonteDelCerro_PonteDellaValle</name>
+  <cmt>Trebbana is a great place where to have a picnic (there's a huge meadow nearby). If you are interested, instead of going to Monte Caibano, you could directly climb up to Monte del Cerro, following a way of the cross built in memory of Padre Daniele Badiali. The oak nearby Trebbana is a must to visit.</cmt>
+  <desc>Easy hike that begins in Ponte della Valle and leads you quickly to San Michele in Trebbana, an old restored church. From there a little loop starts that firstly will lead you to Monte Caibano, passing nearby an ancient monumental oak, and the along a beautiful ridge to Monte del Cerro. From there you will go back to Trebbana and the parking where you left the car at the beginning</desc>
+  <src>Garmin eTrex 20x</src>
+  <link href="https://gabrielesani.piwigo.com/i?/uploads/i/y/v/iyvjzt4foh//2019/07/14/20190714003430-fe255f89-xx.jpg">
+   <text>Monumental Oak</text>
+   <type>Image/JPEG</type>
+  </link>
+  <link href="https://gabrielesani.piwigo.com/i?/uploads/i/y/v/iyvjzt4foh//2019/07/14/20190714003726-84703482-xx.jpg">
+   <text>Field nearby Trebbana</text>
+   <type>Image/JPEG</type>
+  </link>
+  <link href="https://gabrielesani.piwigo.com/i?/uploads/i/y/v/iyvjzt4foh//2019/07/14/20190714002500-92b35b56-xx.jpg">
+   <text>View from Monte del Cerro</text>
+   <type>Image/JPEG</type>
+  </link>
   <extensions>
    <ql:key>7292a526b625ad081867c501b01be83f</ql:key>
    <ql:flags>6</ql:flags>
