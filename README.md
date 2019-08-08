@@ -3,6 +3,7 @@ A worldwide open collection of hiking gpx
 
 ## Project introduction
 *Society, crazy indeed, hope you're not lonely without me*
+
 The main idea is to gather GPX of hiking tracks from users all around the world. We are of course talking about hike YOU have done, not randomly gathered around the web. In this way this could be a sort of hub where to exchange tracks and informations about them. As you can guess it will be a sort of "write-only" project: there would be no reason in modifying GPX uploaded by other users.
 
 ## Why Github
