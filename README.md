@@ -19,5 +19,11 @@ Simply record your hike with any GPS device capable of producing a GPX file and 
 ..* If the hike is a loop, for example going with the route Rome, London and back to Rome, the filename will be Rome_London_Rome.gpx.
 5. Again, you don't have to limit to 3 stage. Just write down the one you think are useful to identify the GPX.
 
+## Waypoint
+Of course feel free to add any waypoint you want along the hike. The more information you put in your file, the more interesting will be to look at it
+
+## Comment and Description
+Creating the track and the waypoints is just the start. It's interesting, if you want, to add also description and comments for the various element you save in the GPX. Personally I use QMapShack to handle all this kind of elements, but at a code-level you would have just to add <desc></desc> tag with the description in and a <cmt></cmt> tag with a comment in it. You can add one or both of them to every waypoint (so inside the <wpt> tag) and in the track itself (so inside the <trk> tag)
+
 ## Future Development
 The first objective is to create a script that, from all the hosted GPX, will create a Database to help searching through them. Also an integration with a service like OSM would be good, but that is something really down the road
