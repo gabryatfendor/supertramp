@@ -7,6 +7,10 @@
     <email id="sani.gabriele" domain="protonmail.com"/>
     <link href="https://geocachehiker.com/"/>
   </author>
+  <copyright author="Gabriele Sani">
+    <year>2019</year>
+    <license>https://opensource.org/licenses/mit-license.php</license>
+  </copyright>
   <time>2019-08-08T10:57:07.415Z</time>
  </metadata>
  <wpt lat="44.04818056" lon="11.67368056">
@@ -62,6 +66,10 @@
   <cmt>This is a great place to take a break (there's a big meadow perfect for having a picnic). Also, on the back of the hermitage, you can find a sundial</cmt>
   <desc>Here you will find a church and an hermitage. The church is opend and visitable, you should take a look!</desc>
   <src>OpenStreetMap</src>
+  <link href="https://gabrielesani.piwigo.com/_datas/i/y/v/iyvjzt4foh/i/uploads/i/y/v/iyvjzt4foh//2019/07/14/20190714083627-b2b74f11-xx.jpg">
+   <text>Gamogna</text>
+   <type>Image/JPEG</type>
+  </link>
   <sym>Church</sym>
   <extensions>
    <ql:key>a232c84c5ca3de625972d4167f30d5b2</ql:key>
@@ -284,6 +292,10 @@
   <cmt>From here on the path is again very visible, you shouldn't have any more issues</cmt>
   <desc>Second (and bigger) group of abandoned houses in the middle of the woods</desc>
   <src>Garmin eTrex 20x</src>
+  <link href="https://gabrielesani.piwigo.com/_datas/i/y/v/iyvjzt4foh/i/uploads/i/y/v/iyvjzt4foh//2019/07/14/20190714080600-c9b1a849-xx.jpg">
+   <text>Tramanzo di Sotto</text>
+   <type>Image/JPEG</type>
+  </link>
   <sym>Ghost Town</sym>
   <extensions>
    <ql:key>69b064e42869e7baf8f0045f55a8b689</ql:key>
@@ -398,14 +410,6 @@
   <cmt>The hike is pretty simple to follow except for a couple of things: the ridge between the 2 mountains is not very well marked (in fact you can see that at a certain point I descended to the main road and then went back on it: it shouldn't be necessary but I wasn't able to find the track); the other difficult part is the descend between the two group of abandoned houses, because the path sometimes disappears through the vegetation</cmt>
   <desc>Medium difficulty hike that from the parking of Ponte della Valle will lead you firstly to the Gamogna's Hermitage (built back in 1053!) than up to the ridge between Mount Gamogna and Mount Val del Calvo, with great views on the landscapes all around. On the way back, following a not very used trail, you will cross 2 abandoned group of houses (Upper Tramanzo and Lower Tramanzo).</desc>
   <src>Garmin eTrex 20x</src>
-  <link href="https://gabrielesani.piwigo.com/_datas/i/y/v/iyvjzt4foh/i/uploads/i/y/v/iyvjzt4foh//2019/07/14/20190714083627-b2b74f11-xx.jpg">
-   <text>Gamogna</text>
-   <type>Image/JPEG</type>
-  </link>
-  <link href="https://gabrielesani.piwigo.com/_datas/i/y/v/iyvjzt4foh/i/uploads/i/y/v/iyvjzt4foh//2019/07/14/20190714080600-c9b1a849-xx.jpg">
-   <text>Tramanzo di Sotto</text>
-   <type>Image/JPEG</type>
-  </link>
   <extensions>
    <ql:key>0fdbd6f8fed7af5da33653f7535d23ae</ql:key>
    <ql:flags>6</ql:flags>

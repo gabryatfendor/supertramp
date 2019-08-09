@@ -7,6 +7,10 @@
     <email id="sani.gabriele" domain="protonmail.com"/>
     <link href="https://geocachehiker.com/"/>
   </author>
+  <copyright author="Gabriele Sani">
+    <year>2019</year>
+    <license>https://opensource.org/licenses/mit-license.php</license>
+  </copyright>
   <time>2019-08-08T10:49:06.610Z</time>
  </metadata>
  <wpt lat="44.04818056" lon="11.67368056">
@@ -15,26 +19,60 @@
   <name>Parking</name>
   <cmt>Easily reachable from the nearby Lutirano</cmt>
   <desc>Starting point where to leave the car</desc>
-  <src>Garmin eTrex 20x</src>
+  <src>OpenStreetMap</src>
   <sym>Parking Area</sym>
+ </wpt>
+ <wpt lat="44.041656" lon="11.686377">  
+  <ele>720</ele>
+  <time>2019-08-08T13:02:24.274Z</time>
+  <name>Trebbana</name>
+  <cmt>First stop where you can take a real break. There's also plenty of space to put a tent if needed</cmt>
+  <desc>Ancient church first built up back in 1063, recently restored and with also a place to sleep</desc>
+  <src>OpenStreetMap</src>
+  <link href="https://gabrielesani.piwigo.com/i?/uploads/i/y/v/iyvjzt4foh//2019/07/14/20190714003726-84703482-xx.jpg">
+   <text>Field nearby Trebbana</text>
+   <type>Image/JPEG</type>
+  </link>
+  <sym>Church</sym>
+ </wpt>
+ <wpt lat="44.0415904" lon="11.6865725">  
+  <ele>720</ele>
+  <time>2019-08-08T13:02:24.274Z</time>
+  <name>Water</name>
+  <src>Garmin eTrex 20x</src>
+  <sym>Drinking Water</sym>
+ </wpt>
+ <wpt lat="44.0444473" lon="11.6885652">  
+  <ele>740</ele>
+  <time>2019-08-08T13:02:24.274Z</time>
+  <name>Monumental Oak</name>
+  <cmt>Highly suggested stop if you pass nearby, the oak is so large that you will need 4-5 people to hug it</cmt>
+  <desc>An oak 23 mts tall near the abandoned house of Pian di Terbana</desc>
+  <src>Garmin eTrex 20x</src>
+  <link href="https://gabrielesani.piwigo.com/i?/uploads/i/y/v/iyvjzt4foh//2019/07/14/20190714003430-fe255f89-xx.jpg">
+   <text>Monumental Oak</text>
+   <type>Image/JPEG</type>
+  </link>
+  <sym>Pin, Green</sym>
+ </wpt>
+ <wpt lat="44.0407615" lon="11.6932065">  
+  <ele>879</ele>
+  <time>2019-08-08T13:02:24.274Z</time>
+  <name>Monte del Cerro</name>
+  <cmt>Highest point of the hike and great point of view nearby</cmt>
+  <desc>Peak located at a junction. Going west you will go back to Trebbana, while proceeding south will lead you to Lago di Ponte and Passo del Tramazzo</desc>
+  <src>OpenStreetMap</src>
+  <link href="https://gabrielesani.piwigo.com/i?/uploads/i/y/v/iyvjzt4foh//2019/07/14/20190714002500-92b35b56-xx.jpg">
+   <text>View from Monte del Cerro</text>
+   <type>Image/JPEG</type>
+  </link>
+  <sym>Summit</sym>
  </wpt>
  <trk>
   <name>PonteDellaValle_Trebbana_MonteCaibano_MonteDelCerro_PonteDellaValle</name>
   <cmt>Trebbana is a great place where to have a picnic (there's a huge meadow nearby). If you are interested, instead of going to Monte Caibano, you could directly climb up to Monte del Cerro, following a way of the cross built in memory of Padre Daniele Badiali. The oak nearby Trebbana is a must to visit.</cmt>
   <desc>Easy hike that begins in Ponte della Valle and leads you quickly to San Michele in Trebbana, an old restored church. From there a little loop starts that firstly will lead you to Monte Caibano, passing nearby an ancient monumental oak, and the along a beautiful ridge to Monte del Cerro. From there you will go back to Trebbana and the parking where you left the car at the beginning</desc>
   <src>Garmin eTrex 20x</src>
-  <link href="https://gabrielesani.piwigo.com/i?/uploads/i/y/v/iyvjzt4foh//2019/07/14/20190714003430-fe255f89-xx.jpg">
-   <text>Monumental Oak</text>
-   <type>Image/JPEG</type>
-  </link>
-  <link href="https://gabrielesani.piwigo.com/i?/uploads/i/y/v/iyvjzt4foh//2019/07/14/20190714003726-84703482-xx.jpg">
-   <text>Field nearby Trebbana</text>
-   <type>Image/JPEG</type>
-  </link>
-  <link href="https://gabrielesani.piwigo.com/i?/uploads/i/y/v/iyvjzt4foh//2019/07/14/20190714002500-92b35b56-xx.jpg">
-   <text>View from Monte del Cerro</text>
-   <type>Image/JPEG</type>
-  </link>
   <extensions>
    <ql:key>7292a526b625ad081867c501b01be83f</ql:key>
    <ql:flags>6</ql:flags>
