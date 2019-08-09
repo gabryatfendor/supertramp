@@ -19,7 +19,6 @@
   <name>Parking</name>
   <cmt>Easily reachable from the nearby Lutirano</cmt>
   <desc>Starting point where to leave the car</desc>
-  <src>OpenStreetMap</src>
   <sym>Parking Area</sym>
  </wpt>
  <wpt lat="44.03903889" lon="11.66256667">
@@ -28,8 +27,7 @@
   <name>Rio di Mesola</name>
   <cmt>The track I followed goes uphill, but if you want to explore from here you could proceed and reach Passo della Peschiera</cmt>
   <desc>Inhabited house called Rio di Mesola</desc>
-  <src>OpenStreetMap</src>
-  <sym>House</sym>
+  <sym>Residence</sym>
  </wpt>
  <wpt lat="44.04030556" lon="11.65394167">
   <ele>767</ele>
@@ -37,7 +35,6 @@
   <name>San Barnaba in Gamogna</name>
   <cmt>This is a great place to take a break (there's a big meadow perfect for having a picnic). Also, on the back of the hermitage, you can find a sundial</cmt>
   <desc>Here you will find a church and an hermitage. The church is opend and visitable, you should take a look!</desc>
-  <src>OpenStreetMap</src>
   <link href="https://gabrielesani.piwigo.com/_datas/i/y/v/iyvjzt4foh/i/uploads/i/y/v/iyvjzt4foh//2019/07/14/20190714083627-b2b74f11-xx.jpg">
    <text>Gamogna</text>
    <type>Image/JPEG</type>
@@ -50,7 +47,6 @@
   <name>Padre Daniele's chapel</name>
   <cmt>The chapel is open and visitable</cmt>
   <desc>Little chapel in honor of Padre Daniele Badiali</desc>
-  <src>Garmin eTrex 20x</src>
   <sym>Church</sym>
  </wpt>
  <wpt lat="44.04292500" lon="11.64754722">
@@ -59,7 +55,10 @@
   <name>Ridge</name>
   <cmt>The path is not clear from here going on, so beware not going anywhere dangerous and always look where you are going. If you make a mistep here you can fall down for many meters.</cmt>
   <desc>The starting point of the ridge. From here onwards it will be quite an up and down, but the landscape is amazing</desc>
-  <src>Garmin eTrex 20x</src>
+  <link href="https://gabrielesani.piwigo.com/_datas/i/y/v/iyvjzt4foh/i/uploads/i/y/v/iyvjzt4foh//2019/07/14/20190714082136-64fcb65a-sm.jpg">
+   <text>View from the ridge</text>
+   <type>Image/JPEG</type>
+  </link>
   <sym>Scenic Area</sym>
  </wpt>
  <wpt lat="44.04371944" lon="11.65254444">
@@ -68,7 +67,6 @@
   <name>Wrong way</name>
   <cmt>If you reach the road (like I did) it means you got it wrong on the ridge. Don't worry, there's an easy to follow track a bit along to go back up</cmt>
   <desc>There's a big wooden cross here, on the side of the road.</desc>
-  <src>Garmin eTrex 20x</src>
   <sym>Flag, Red</sym>
  </wpt>
  <wpt lat="44.05309444" lon="11.65147222">
@@ -77,7 +75,6 @@
   <name>Monte Val del Calvo</name>
   <cmt>From here to go back on the main road don't follow the way I took. I thought there was a shortuct: there isn't. Just follow the marked path and then go back on the road.</cmt>
   <desc>Monte Val del Calvo, the highest point of this hike. The landscape here is simply awesome!</desc>
-  <src>OpenStreetMap</src>
   <sym>Summit</sym>
  </wpt>
  <wpt lat="44.04693611" lon="11.65338333">
@@ -86,7 +83,10 @@
   <name>Tramanzo di Sopra</name>
   <cmt>After this group of houses the track seems to disappear: you just have to overcome the vegetation and you will find it again</cmt>
   <desc>Group of abandoned houses in the middle of the vegetation</desc>
-  <src>Garmin eTrex 20x</src>
+  <link href="https://gabrielesani.piwigo.com/_datas/i/y/v/iyvjzt4foh/i/uploads/i/y/v/iyvjzt4foh//2019/07/14/20190714080822-c09583b7-sm.jpg">
+   <text>Tramanzo di Sopra</text>
+   <type>Image/JPEG</type>
+  </link>
   <sym>Ghost Town</sym>
  </wpt>
  <wpt lat="44.04629167" lon="11.65767500">
@@ -95,7 +95,6 @@
   <name>Tramanzo di Sotto</name>
   <cmt>From here on the path is again very visible, you shouldn't have any more issues</cmt>
   <desc>Second (and bigger) group of abandoned houses in the middle of the woods</desc>
-  <src>Garmin eTrex 20x</src>
   <link href="https://gabrielesani.piwigo.com/_datas/i/y/v/iyvjzt4foh/i/uploads/i/y/v/iyvjzt4foh//2019/07/14/20190714080600-c9b1a849-xx.jpg">
    <text>Tramanzo di Sotto</text>
    <type>Image/JPEG</type>
@@ -108,8 +107,7 @@
   <name>Trebbo di Badia</name>
   <cmt>Here, if you head left, you will go towards Monte Val del Calvo again</cmt>
   <desc>Private inhabited house, don't go inside</desc>
-  <src>Garmin eTrex 20x</src>
-  <sym>House</sym>
+  <sym>Residence</sym>
  </wpt>
  <wpt lat="44.04431944" lon="11.66840278">
   <ele>556</ele>
@@ -117,7 +115,6 @@
   <name>Val di Noce</name>
   <cmt>There's a bus stop there, but unfortunately is not well served (there are like 2 bus per day)</cmt>
   <desc>A very little locality where there are still people that inhabit it</desc>
-  <src>Garmin eTrex 20x</src>
   <sym>City (Small)</sym>
  </wpt>
  <trk>

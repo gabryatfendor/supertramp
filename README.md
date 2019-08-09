@@ -23,7 +23,7 @@ Simply record your hike with any GPS device capable of producing a GPX file and 
 To really understand how to write a clean and valid GPX file, readable by EVERY application that follows the standard, I suggest you to check the [official standard specification](https://www.topografix.com/GPX/1/1/). The following paragraph are a bit more in detail on this topic (nothing too technical, but it's good to learn how to write a good GPX)
 
 #### Waypoint
-Of course feel free to add any waypoint you want along the hike. The more information you put in your file, the more interesting will be to look at it
+Of course feel free to add any waypoint you want along the hike. The more information you put in your file, the more interesting will be to look at it. Doing a bit of experimentation it seems that Garmin devices, when reading everything you write between the \<wpt>\</wpt> tags, won't show you the waypoint if they have the \<src> tag, so __remember to remove it__. I still don't understand why this happen (it shouldn't, since the \<src> tag is listed in the official specification) and I hope to solve this issue
 
 #### Comment and Description
 Creating the track and the waypoints is just the start. It's interesting, if you want, to add also description and comments for the various element you save in the GPX. Personally I use QMapShack to handle all this kind of elements, but at a code-level you would have just to add __\<desc>\</desc>__ tag with the description in and a __\<cmt>\</cmt>__ tag with a comment in it. You can add one or both of them to every waypoint (so inside the \<wpt> tag) and in the track itself (so inside the \<trk> tag)

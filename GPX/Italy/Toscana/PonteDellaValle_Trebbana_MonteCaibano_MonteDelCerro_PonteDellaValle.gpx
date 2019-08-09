@@ -19,7 +19,6 @@
   <name>Parking</name>
   <cmt>Easily reachable from the nearby Lutirano</cmt>
   <desc>Starting point where to leave the car</desc>
-  <src>OpenStreetMap</src>
   <sym>Parking Area</sym>
  </wpt>
  <wpt lat="44.041656" lon="11.686377">  
@@ -28,7 +27,6 @@
   <name>Trebbana</name>
   <cmt>First stop where you can take a real break. There's also plenty of space to put a tent if needed</cmt>
   <desc>Ancient church first built up back in 1063, recently restored and with also a place to sleep</desc>
-  <src>OpenStreetMap</src>
   <link href="https://gabrielesani.piwigo.com/i?/uploads/i/y/v/iyvjzt4foh//2019/07/14/20190714003726-84703482-xx.jpg">
    <text>Field nearby Trebbana</text>
    <type>Image/JPEG</type>
@@ -39,7 +37,6 @@
   <ele>720</ele>
   <time>2019-08-08T13:02:24.274Z</time>
   <name>Water</name>
-  <src>Garmin eTrex 20x</src>
   <sym>Drinking Water</sym>
  </wpt>
  <wpt lat="44.0444473" lon="11.6885652">  
@@ -48,12 +45,11 @@
   <name>Monumental Oak</name>
   <cmt>Highly suggested stop if you pass nearby, the oak is so large that you will need 4-5 people to hug it</cmt>
   <desc>An oak 23 mts tall near the abandoned house of Pian di Terbana</desc>
-  <src>Garmin eTrex 20x</src>
   <link href="https://gabrielesani.piwigo.com/i?/uploads/i/y/v/iyvjzt4foh//2019/07/14/20190714003430-fe255f89-xx.jpg">
    <text>Monumental Oak</text>
    <type>Image/JPEG</type>
   </link>
-  <sym>Pin, Green</sym>
+  <sym>Park</sym>
  </wpt>
  <wpt lat="44.0407615" lon="11.6932065">  
   <ele>879</ele>
@@ -61,7 +57,6 @@
   <name>Monte del Cerro</name>
   <cmt>Highest point of the hike and great point of view nearby</cmt>
   <desc>Peak located at a junction. Going west you will go back to Trebbana, while proceeding south will lead you to Lago di Ponte and Passo del Tramazzo</desc>
-  <src>OpenStreetMap</src>
   <link href="https://gabrielesani.piwigo.com/i?/uploads/i/y/v/iyvjzt4foh//2019/07/14/20190714002500-92b35b56-xx.jpg">
    <text>View from Monte del Cerro</text>
    <type>Image/JPEG</type>

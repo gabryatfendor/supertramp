@@ -19,27 +19,24 @@
   <name>Rifugio Cotozzo</name>
   <cmt>This is the first place where you can take a real break coming up from Badia Prataglia</cmt>
   <desc>Furnished shelter with a fireplace to grill some meat and tables where to eat</desc>
-  <src>OpenStreetMap</src>
   <link href="https://gabrielesani.piwigo.com/i?/uploads/i/y/v/iyvjzt4foh//2019/08/07/20190807210402-ad4856bb-xx.jpg">
    <text>Rifugio Cotozzo</text>
    <type>Image/JPEG</type>
   </link>
-  <sym>Building</sym>
+  <sym>Residence</sym>
  </wpt>
  <wpt lat="43.7930221" lon="11.8321688">
   <ele>1126</ele>
   <time>2019-08-08T13:06:17.526Z</time>
   <name>Drinking Water</name>
-  <src>Garmin eTrex 20x</src>
   <sym>Drinking Water</sym>
  </wpt>
  <wpt lat="43.7938262" lon="11.8204184">
   <ele>840</ele>
   <time>2019-08-08T13:06:17.526Z</time>
   <name>Camaldoli's Antique Pharmacy</name>
-  <cmt>This is the first place where you can take a real break coming up from Badia Prataglia</cmt>
+  <cmt>While you're there I suggest to visit the hamlet. The monastery is very interesting, as it's the info point museum</cmt>
   <desc>Shop where you can find local products, ranging from chocolate to various ointment made following the monks' old recipes</desc>
-  <src>OpenStreetMap</src>
   <link href="https://gabrielesani.piwigo.com/_datas/i/y/v/iyvjzt4foh/i/uploads/i/y/v/iyvjzt4foh//2019/08/07/20190807205855-e24f537b-xx.jpg">
    <text>Camaldoli</text>
    <type>Image/JPEG</type>
@@ -50,7 +47,6 @@
   <ele>840</ele>
   <time>2019-08-08T13:06:17.526Z</time>
   <name>Fonte Bona</name>
-  <src>OpenStreetMap</src>
   <sym>Drinking Water</sym>
  </wpt>
  <wpt lat="43.8075278" lon="11.8194916">
@@ -59,7 +55,6 @@
   <name>Traversari's Lake</name>
   <cmt>Balneation is forbidden here</cmt>
   <desc>Nice little lake in the middle of the woods</desc>
-  <src>OpenStreetMap</src>
   <link href="https://gabrielesani.piwigo.com/i?/uploads/i/y/v/iyvjzt4foh//2019/08/07/20190807205535-d2dfb7f6-xx.jpg">
    <text>Traversari's Lake</text>
    <type>Image/JPEG</type>
@@ -72,7 +67,6 @@
   <name>Camaldoli's Hermitage</name>
   <cmt>Good place where to take a break, there's also a parking are here if you prefer to come by car.</cmt>
   <desc>Antique hermitage built in 1027, today is house to the Camaldolese monk community</desc>
-  <src>OpenStreetMap</src>
   <link href="https://gabrielesani.piwigo.com/i?/uploads/i/y/v/iyvjzt4foh//2019/08/07/20190807205404-5a977d35-xx.jpg">
    <text>Camaldoli's Hermitage</text>
    <type>Image/JPEG</type>
@@ -83,7 +77,6 @@
   <ele>1103</ele>
   <time>2019-08-08T13:06:17.526Z</time>
   <name>Fontebona</name>
-  <src>OpenStreetMap</src>
   <sym>Drinking Water</sym>
  </wpt>
  <wpt lat="43.8126810" lon="11.8305616">
@@ -92,7 +85,6 @@
   <name>Prato alla Penna</name>
   <cmt>Great place to have a picnic. It's als oa parking, so beware of the cars</cmt>
   <desc>Little meadow on a mountain saddle</desc>
-  <src>OpenStreetMap</src>
   <link href="https://gabrielesani.piwigo.com/i?/uploads/i/y/v/iyvjzt4foh//2019/08/07/20190807204845-d7656fbe-xx.jpg">
    <text>Prato alla Penna</text>
    <type>Image/JPEG</type>
@@ -105,25 +97,22 @@
   <name>Bivacco Fangacci "Onorio Mellini"</name>
   <cmt>The hut is usually closed, you have to pay and contact the local CAI section to rent it</cmt>
   <desc>Hut available previous contact with the local CAI section</desc>
-  <src>OpenStreetMap</src>
   <link href="https://gabrielesani.piwigo.com/i?/uploads/i/y/v/iyvjzt4foh//2019/08/07/20190807204305-22ec0406-xx.jpg">
    <text>Bivacco Fangacci</text>
    <type>Image/JPEG</type>
   </link>
-  <sym>Building</sym>
+  <sym>Residence</sym>
  </wpt>
  <wpt lat="43.8093143" lon="11.8495918">
   <ele>1231</ele>
   <time>2019-08-08T13:06:17.526Z</time>
   <name>Drinking Water</name>
-  <src>OpenStreetMap</src>
   <sym>Drinking Water</sym>
  </wpt>
  <wpt lat="43.8007510" lon="11.8669715">
   <ele>1017</ele>
   <time>2019-08-08T13:06:17.526Z</time>
   <name>Il Capanno</name>
-  <src>OpenStreetMap</src>
   <sym>Restaurant</sym>
  </wpt>
  <trk>
